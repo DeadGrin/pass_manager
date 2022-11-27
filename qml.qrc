@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qmldir</file>
+        <file>Style.qml</file>
+        <file>Content.qml</file>
+        <file>assets/fileIcon.png</file>
+        <file>assets/fileIconActive.png</file>
+        <file>assets/historyIcon.png</file>
+        <file>assets/historyIconActive.png</file>
+        <file>assets/settingsIcon.png</file>
+        <file>assets/settingsIconActive.png</file>
+        <file>RightRect.qml</file>
+        <file>StartInputKey.qml</file>
+        <file>FilesPage.qml</file>
+        <file>HistoryPage.qml</file>
+        <file>SettingsPage.qml</file>
+    </qresource>
+</RCC>
