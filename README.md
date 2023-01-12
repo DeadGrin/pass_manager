@@ -5,7 +5,7 @@ If you want to use it:
 2. Come up with a key
 4. Generate 256 HASH based on your key via online services and put it inside KEYSHA256.txt.
 5. Launch .exe file
-6. Type your key.
+6. Type your key and press Enter
 
 To edit service/login/password double-click right button
 
