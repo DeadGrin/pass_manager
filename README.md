@@ -1,5 +1,5 @@
 # pass_manager
-Password manager i wrote for myself.
+Password manager i wrote for myself. (NOT ENCRYPTED). AES encryption will be added, but idk when.
 If you want to use it: 
 1. Download "release" directory.
 2. Come up with a key
