@@ -8,7 +8,10 @@ If you want to use it:
 6. Type your key.
 
 To edit service/login/password double-click right button
+
 To copy service/login/password double-click left button
+
+
 
 ![image](https://user-images.githubusercontent.com/86728543/212114731-8e99f0a9-9427-4f2c-919f-d252c74f98ad.png)
 
