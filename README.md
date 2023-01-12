@@ -1,7 +1,7 @@
 # pass_manager
 Password manager i wrote for myself. (NOT ENCRYPTED). AES encryption will be added, but idk when.
 If you want to use it: 
-1. Download "release" directory.
+1. Download "ddgrnPassManager.zip" in releases tab.
 2. Come up with a key
 4. Generate 256 HASH based on your key via online services and put it inside KEYSHA256.txt.
 5. Launch .exe file
