@@ -3,7 +3,7 @@ Password manager i wrote for myself. (NOT ENCRYPTED). AES encryption will be add
 If you want to use it: 
 1. Download "ddgrnPassManager.zip" in releases tab.
 2. Come up with a key
-4. Generate 256 HASH based on your key via online services and put it inside KEYSHA256.txt.
+4. Generate 256 HASH based on your key and put it inside KEYSHA256.txt.
 5. Launch .exe file
 6. Type your key and press Enter
 
