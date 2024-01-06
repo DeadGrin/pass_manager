@@ -1,12 +1,15 @@
 # pass_manager
-Password manager i wrote for myself. (NOT ENCRYPTED). AES encryption will be added, but idk when.
+Password manager i wrote for myself (pet project with NO ENCRYPTION). AES encryption will be added, but idk when.
 If you want to use it: 
 1. Download "ddgrnPassManager.zip" in releases tab.
 2. Come up with a key
-4. Generate 256 HASH based on your key and put it inside KEYSHA256.txt.
-5. Launch .exe file
-6. Type your key and press Enter
+3. Generate 256 HASH based on your key and put it inside KEYSHA256.txt.
+4. Launch .exe file
+5. Type your key and press Enter
 
+Application stores key only in SHA256 format, so if you forgot the key, you cannot restore it (only brutforce or search in sha256 databases).
+Application does not encrypt passwords themselves so they are accesible in application folder. If you want to implement encryption feel free to contact me or create a branch.
+ 
 To edit service/login/password double-click right button
 
 To copy service/login/password double-click left button
