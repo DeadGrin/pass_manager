@@ -8,7 +8,7 @@ Usage:
 5. Type your key and press Enter
 
 Application stores key only in SHA256 format, so if you forgot the key, you cannot restore it (only brutforce or search in sha256 databases).
-Application does not encrypt passwords themselves so they are accesible in application folder. If you want to implement encryption feel free to contact me or create a branch.
+Application does not encrypt passwords themselves so they are accesible in application folder. If you want to implement encryption just fork.
  
 To edit service/login/password double-click right button
 
